@@ -13,7 +13,5 @@ a focus on scala 3 which was just released in the past year.
 
 So this repository will contain my efforts to solve some of the 
 problems in project euler, possibly in multiple different ways
-along with doing the exercises in programming in scala 5th 
-edition so that I can learn through working examples and 
-consider different approaches, hopefully learning the benefits 
-and drawbacks of each.
+if that makes sense for the problem, but mostly this is an 
+exercise for me to write code of some significance in scala. 
