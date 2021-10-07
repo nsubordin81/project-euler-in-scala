@@ -1,2 +1,41 @@
+.DS_Store
 *.class
 *.log
+*~
+
+# sbt specific
+dist/*
+target/
+lib_managed/
+src_managed/
+project/boot/
+project/plugins/project/
+project/metals.sbt
+project/local-plugins.sbt
+.history
+.bsp
+
+# Scala-IDE specific
+.scala_dependencies
+.cache
+.classpath
+.project
+.settings
+classes/
+
+# idea
+.idea
+.idea_modules
+/.worksheet/
+
+# Dotty-IDE
+.dotty-ide-artifact
+.dotty-ide.json
+
+# plugins
+.metals/
+.bloop/
+.scalafmt.conf
+
+# Visual Studio Code
+.vscode
